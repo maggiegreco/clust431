@@ -22,3 +22,5 @@ Imports:
     ggdendro
 Suggests: 
     testthat
+URL: https://github.com/maggiegreco/clust431
+BugReports: https://github.com/maggiegreco/clust431/issues
